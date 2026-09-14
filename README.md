@@ -72,8 +72,10 @@ I actively leverage modern AI assistants and cloud technologies to boost my deve
 
 <h2>🐍 Contribution Snake</h2>
 
+<h2>🐍 Contribution Snake</h2>
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/Yimencodehub/Yimencodehub/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Yimencodehub/Yimencodehub/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 
