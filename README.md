@@ -76,9 +76,6 @@ I actively leverage modern AI assistants and cloud technologies to boost my deve
 <img src="https://raw.githubusercontent.com/Yimencodehub/Yimencodehub/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
-<br>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" />
-</div>
-<!-- test -->
+
+
