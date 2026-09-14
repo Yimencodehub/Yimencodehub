@@ -70,7 +70,6 @@ I actively leverage modern AI assistants and cloud technologies to boost my deve
 
 <br>
 
-
 <h2>🐍 Contribution Snake</h2>
 
 <p align="center">
