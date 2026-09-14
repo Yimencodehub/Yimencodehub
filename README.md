@@ -22,7 +22,6 @@
 💬 <b>Ask me about:</b> Web Development, Database Systems, & Algorithmic Thinking<br>
 📫 <b>How to reach me:</b> <a href="mailto:yimenanmaw711@gmail.com">yimenanmaw711@gmail.com</a>
 </p>
-
 <br clear="both">
 
 
