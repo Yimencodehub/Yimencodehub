@@ -1,11 +1,15 @@
 <h1 align="center">Hey 👋, I'm Yimen Anmaw!</h1>
-<h3 align="center">A passionate Software Engineering Student & Full-Stack Developer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,24,32&height=180&section=header&text=Yimen%20Anmaw&fontSize=42&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-<br>
+  <h3>🎓 Software Engineering Student & Full-Stack Developer</h3>
+  <p><i>Building modern web applications with a focus on clean code & scalable systems.</i></p>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/RahulSoni0/RahulSoni0/main/hi.gif" width="280" alt="Coding GIF" />
-</p>
+  <p>
+    <a href="mailto:yimenanmaw970@gmail.com"><img src="https://img.shields.io/badge/Email-yimenanmaw970%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/Location-Woldia%2C%20Ethiopia-blue?style=flat-square&logo=googlemaps&logoColor=white" />
+  </p>
+</div>
 
    <h2>👨‍💻 About Me</h2>
 
@@ -45,19 +49,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
 </p>
 <br>
-### 🤖 AI Tools & Technologies I Use
-I actively leverage modern AI assistants and cloud technologies to boost my development workflow, code generation, and problem-solving:
 
-<p align="left">
-  <!-- Google Gemini -->
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" /> &nbsp;
-  <!-- GitHub Copilot / Cloud Copilot -->
-  <img src="https://img.shields.io/badge/Cloud%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Cloud Copilot" /> &nbsp;
-  <!-- Cloud AI -->
-  <img src="https://img.shields.io/badge/Cloud%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud AI" /> &nbsp;
-  <!-- Antigravity -->
-  <img src="https://img.shields.io/badge/Antigravity-FF6F61?style=for-the-badge&logo=ai&logoColor=white" alt="Antigravity" />
-</p>
+
 <br>
 <h2>📊 GitHub Stats</h2>
 
