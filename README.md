@@ -13,7 +13,7 @@ ilding modern web applications with a focus on clean code & scalable systems.</i
 <img align="right" src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2M/giphy.gif" width="260" alt="Coding GIF" />
 
 🎓 **Education** &nbsp;::&nbsp; Software Engineering Student at **Woldia University** <br>
-💻 **Tech Stack** &nbsp;::&nbsp; React, Node.js, PHP, C++, & MySQL,JAVA 
+💻 **Tech Stack** &nbsp;::&nbsp; React, Node.js, PHP, C++, & MySQL,JAVA <br>
 🔭 **Current Focus** &nbsp;::&nbsp; Full-stack Web Development (React & Node.js)  
 🌱 **Currently Learning** &nbsp;::&nbsp;Advanced Laravel Architecture & AI Integrations, <br> next.js, flutter<br>
 🤝 **Open For** &nbsp;::&nbsp; Open-Source Collaborations & Innovative Projects  
