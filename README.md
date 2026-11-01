@@ -18,7 +18,7 @@
 <img align="right" src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2M/giphy.gif" width="260" alt="Coding GIF" />
 
 🎓 **Education** &nbsp;::&nbsp; Software Engineering Student at **Woldia University** <br>
-💻 **Tech Stack** &nbsp;::&nbsp; django,python,React, Node.js, PHP, C++, & MySQL,JAVA <br>
+💻 **Tech Stack** &nbsp;::&nbsp; django,python,React, Node.js, PHP, C++,JAVA ,postgreSQL,mySQL,firebase,<br>
 🔭 **Current Focus** &nbsp;::&nbsp; Full-stack Web Development (React & Node.js)  
 🌱 **Currently Learning** &nbsp;::&nbsp;Advanced python & AI Integrations<br>
 🤝 **Open For** &nbsp;::&nbsp; Open-Source Collaborations & Innovative Projects  
@@ -44,6 +44,8 @@
 
 **Databases & Tools** <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
